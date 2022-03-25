@@ -134,7 +134,7 @@ squadreSerieA[i]["falliSubiti"]= falli;
 let {nome, falliSubiti} = squadreSerieA[i];
 
 team.innerHTML += `
-<div>La squadra <span style="font-weight: bold;">${nome}</span>ha subito <span style="font-weight: bold;">${falliSubiti}</span> falli in tutta la stagione.</div>
+<div>Il <span style="font-weight: bold;">${nome}</span>ha subito <span style="font-weight: bold;">${falliSubiti}</span> falli durante la stagione.</div>
 `
 }    
 
