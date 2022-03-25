@@ -1,0 +1,18 @@
+*{
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    color: white;
+    font-size: 20px;
+}
+
+body{
+    background: green;
+}
+
+div{
+    font-family: 'Roboto', sans-serif;
+}
