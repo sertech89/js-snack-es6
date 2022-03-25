@@ -1,0 +1,18 @@
+*{
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    color: goldenrod;
+    font-size: 25px;
+}
+
+body{
+    background: black;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
