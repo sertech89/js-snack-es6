@@ -91,4 +91,7 @@ const minimo70id120 = students.filter(
 }
 )
 
+
 console.log(minimo70id120);
+
+
